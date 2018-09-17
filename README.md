@@ -1,0 +1,1 @@
+# trianglepattern.c
